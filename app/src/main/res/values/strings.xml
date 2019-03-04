@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyBroadcastReciverDemo</string>
+
+    <string name="notification_name_flugmodus">Info: Flugmodus geändert</string>
+</resources>
